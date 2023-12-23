@@ -24,6 +24,10 @@ Clone the repository and open `index.html` in your browser. That's it! No fancy 
 Feel free to fork and contribute to make counting even more fun and efficient!
 
 🌐 **Demo:**
-Check out the live demo [https://github.com/AminDevelopers/counter/assets/132141736/2b0a9be3-3de3-43e7-82fe-4426bf57d4ef](#your-demo-link).
+Check out the live demo 🔽
+
+https://github.com/AminDevelopers/counter/assets/132141736/5e617ba8-756b-4101-8d52-f5603742d1d7
+
+
 
 Happy counting! 🎉
